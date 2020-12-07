@@ -45,9 +45,17 @@
 
 ![Иллюстрация к проекту](https://github.com/AlenaPliusnina/Users_athletes_DataBase_B_4.12/blob/master/screenshoots/screen_1.png)
 
+Для осуществления поиска пользователя по имени выберите 1:
+
 ![Иллюстрация к проекту](https://github.com/AlenaPliusnina/Users_athletes_DataBase_B_4.12/blob/master/screenshoots/screen_2.png)
 
 ![Иллюстрация к проекту](https://github.com/AlenaPliusnina/Users_athletes_DataBase_B_4.12/blob/master/screenshoots/screen_3.png)
+
+Для добавления нового пользователя выберите 2:
+
+![Иллюстрация к проекту](https://github.com/AlenaPliusnina/Users_athletes_DataBase_B_4.12/blob/master/screenshoots/screen_5.png)
+
+Для поиска ближайшего к пользователю атлета выберите 3:
 
 ![Иллюстрация к проекту](https://github.com/AlenaPliusnina/Users_athletes_DataBase_B_4.12/blob/master/screenshoots/screen_4.png)
 
